@@ -1,0 +1,79 @@
+.header{
+    background-color: limegreen;
+}
+
+.img{
+    width: 50px;
+}
+
+.indentation{
+    padding-top: 60px
+}
+
+.yelow{
+    background-color: yellow;
+}
+
+.color-text{
+    color: white;
+}
+
+.indent{
+    margin-top: 15px;
+}
+
+.line{
+    border-top: 6px solid black;
+    height: 100px;
+    margin-top: 70px;
+    width: 1300px; 
+    margin-left: 120px; 
+}
+
+.img-2{
+    width: 500px;
+}
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    margin-top: -500px;
+    margin-left: 900px;
+}
+
+.btn-add{
+    width: 150px;
+    height: 80px;
+}
+
+.btn-delete{
+    width: 150px;
+    height: 80px;
+}
+
+.line-1{
+    border-top: 6px solid black;
+    height: 100px;
+    margin-top: 500px;
+    width: 1300px; 
+    margin-left: 120px; 
+}
+
+.img-repeat {
+    width: 1350px;
+    height: 300px;
+    background: url(image/forest.png);
+    background-repeat: round;
+}
+
+
+
+
+
+
+
+
+
+
+
