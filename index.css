@@ -60,20 +60,8 @@
     margin-left: 120px; 
 }
 
-.img-repeat {
-    width: 1350px;
-    height: 300px;
-    background: url(image/forest.png);
-    background-repeat: round;
+.img-3{
+    display: flex;
+    height: 217px;
 }
-
-
-
-
-
-
-
-
-
-
 
